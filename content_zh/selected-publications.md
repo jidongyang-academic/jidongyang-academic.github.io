@@ -1,6 +1,6 @@
 (# Equal contribution, \* Corresponding author)
 
-### [Invisible Image Watermark Attacks: A Survey](https://www.preprints.org/manuscript/202609.1697)
+### [Invisible Image Watermark Attacks: A Survey](https://www.preprints.org/manuscript/202609.1697/v1)
 
 **Jidong Yang**, Qi Li, Huaike Yu, Xiaoyu Wang, Chunpeng Wang, Bin Ma, Suo Gao, Jinwei Wang, Xiaolong Li
 

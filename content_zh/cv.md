@@ -31,7 +31,7 @@
 按首次发表或预印本公开日期从新到旧排列。
 
 - [**Where Does the Watermark Hide? Push-Pull Disentanglement for Invisible Watermark Removal**](https://arxiv.org/abs/2609.31722) — **Jidong Yang**, Huaike Yu, Qi Li, Chunpeng Wang, Yuantian Miao, Suo Gao, Xiao Chen. *arXiv preprint arXiv:2609.31722* (2026-09-22).
-- [**Invisible Image Watermark Attacks: A Survey**](https://www.preprints.org/manuscript/202609.1697) — **Jidong Yang**, Qi Li, Huaike Yu, Xiaoyu Wang, Chunpeng Wang, Bin Ma, Suo Gao, Jinwei Wang, Xiaolong Li. *Preprints.org* (2026-09-20).
+- [**Invisible Image Watermark Attacks: A Survey**](https://www.preprints.org/manuscript/202609.1697/v1) — **Jidong Yang**, Qi Li, Huaike Yu, Xiaoyu Wang, Chunpeng Wang, Bin Ma, Suo Gao, Jinwei Wang, Xiaolong Li. *Preprints.org* (2026-09-20).
 - [**Style as Cover: Deep Image Steganography via Stylized Transmission**](https://arxiv.org/abs/2609.22392) — Qi Li, **Jidong Yang**\*, Huaike Yu, Chunpeng Wang, Suo Gao, Herbert Ho-Ching Iu, Yuantian Miao, Bin Ma, Xiao Chen. *arXiv preprint arXiv:2609.22392* (2026-09-18).
 - [**Disentangle and Drop: Robust Universal Removal of Image Watermarks via Reconstructive Grayscale Residual Decomposition**](https://arxiv.org/abs/2609.31693) — Qi Li, **Jidong Yang**\*, Feng-Lei Fan, Yuantian Miao, Xiao Chen, Huaike Yu, Chunpeng Wang, Suo Gao, Herbert Ho-Ching Iu, Bin Ma. *arXiv preprint arXiv:2609.31693* (2026-09-18).
 - [**RemTraceNet: Few-Shot Forensic Detection of Invisible Watermark Attacks**](https://arxiv.org/abs/2609.31694) — **Jidong Yang**, Huaike Yu, Qi Li, Yuantian Miao, Wei Zong, Yang-Wai Chow, Willy Susilo, Chunpeng Wang, Suo Gao. *arXiv preprint arXiv:2609.31694* (2026-09-18).
