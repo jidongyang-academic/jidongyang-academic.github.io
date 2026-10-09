@@ -1,6 +1,6 @@
 type = "card"
 title = "研究方向"
-description = "科研职位、研究指导关系及主要研究方向。"
+description = "科研职位、科研项目参与、研究指导关系及主要研究方向。"
 
 [[items]]
 title = "科研职位"
@@ -8,6 +8,16 @@ subtitle = "Research Assistant · 齐鲁工业大学（山东省科学院）"
 date = "2024 年 1 月—至今"
 content = "研究指导老师：[Qi Li](https://scholar.google.com/citations?user=hADn5wwAAAAJ&hl=en)（齐鲁工业大学〔山东省科学院〕）和 [Yuantian Miao](https://scholar.google.com/citations?user=O0xZHawAAAAJ&hl=en)（香港城市大学〔东莞〕）。"
 tags = ["科研助理", "研究指导", "AI 安全"]
+
+[[items]]
+title = "科研项目参与"
+subtitle = "项目参与人员"
+content = """
+- **国家自然科学基金：** 62502250、62406051、62302249、62541206、62272255。
+- **山东省泰山学者计划：** tsqnz20250747。
+- **山东省青年科技人才托举工程：** SDAST2025QTB030。
+"""
+tags = ["项目参与人员", "科研资助"]
 
 [[items]]
 title = "不可见图像水印与多媒体取证"

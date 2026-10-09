@@ -32,6 +32,14 @@ Research guidance:
 - Built and evaluated deep-learning pipelines for multi-omics and functional genomics.
 - Applied Enformer and SpliceTransformer; studied genomic mechanisms using GWAS, cTWAS and spatial transcriptomics.
 
+## Research Project Participation
+
+**Role: Project Participant**
+
+- **National Natural Science Foundation of China (NSFC):** 62502250, 62406051, 62302249, 62541206, 62272255.
+- **Taishan Scholars Program of Shandong Province:** tsqnz20250747.
+- **Shandong Provincial Young Science and Technology Talent Support Program:** SDAST2025QTB030.
+
 ## Publications
 
 (# Equal contribution, \* Corresponding author)

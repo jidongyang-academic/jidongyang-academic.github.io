@@ -1,6 +1,6 @@
 type = "card"
 title = "Research"
-description = "Research role, research guidance, and research interests."
+description = "Research role, research project participation, research guidance, and research interests."
 
 [[items]]
 title = "Research Appointment"
@@ -8,6 +8,16 @@ subtitle = "Research Assistant · Qilu University of Technology (Shandong Academ
 date = "January 2024 – Present"
 content = "Research guidance: [Qi Li](https://scholar.google.com/citations?user=hADn5wwAAAAJ&hl=en) (Qilu University of Technology / Shandong Academy of Sciences) and [Yuantian Miao](https://scholar.google.com/citations?user=O0xZHawAAAAJ&hl=en) (City University of Hong Kong (Dongguan))."
 tags = ["Research Assistant", "Research Guidance", "AI Security"]
+
+[[items]]
+title = "Research Project Participation"
+subtitle = "Project Participant"
+content = """
+- **National Natural Science Foundation of China (NSFC):** 62502250, 62406051, 62302249, 62541206, 62272255.
+- **Taishan Scholars Program of Shandong Province:** tsqnz20250747.
+- **Shandong Provincial Young Science and Technology Talent Support Program:** SDAST2025QTB030.
+"""
+tags = ["Project Participant", "Research Funding"]
 
 [[items]]
 title = "Invisible Image Watermarking and Multimedia Forensics"
