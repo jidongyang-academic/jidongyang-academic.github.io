@@ -1,4 +1,4 @@
-## 现任学术及科研职位
+## 学术及科研职位
 
 **Research Assistant（科研助理）** · 齐鲁工业大学（山东省科学院），中国  
 *2024 年 1 月—至今*  
@@ -19,7 +19,7 @@
 - **新加坡国立大学（National University of Singapore），School of Continuing and Lifelong Education（NUS SCALE）**：人工智能与机器学习（Artificial Intelligence and Machine Learning）在线课程结业证书，*2022 年 1 月 15 日—2 月 26 日*，23 学时，包含同步与异步学习。
 - **厦门大学经济学院**：企业家和双创干部能力提升计划高级研修班结业证书，*2021 年 4 月 25–30 日*，24 学时，非学历教育。
 
-## 既往科研经历
+## 科研经历
 
 - **独立研究者（AI 安全与网络威胁情报）**，与中山大学、纽卡斯尔大学开展研究 · *2025 年 1 月—2026 年 6 月*。研究内容：APT 归因与 TTP 预测、异构图学习、多源 CTI、不可见图像水印攻击。
 - **科研助理（生物信息学与多组学分析）**，Shanshan Cai 指导 · *2025 年 8 月—2026 年 1 月*。研究内容：基因组数据处理、Enformer、SpliceTransformer、GWAS、cTWAS 和空间转录组学。

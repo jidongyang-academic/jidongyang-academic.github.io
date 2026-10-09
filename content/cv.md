@@ -1,4 +1,4 @@
-## Current Academic and Research Appointments
+## Academic and Research Appointments
 
 **Research Assistant** · Qilu University of Technology (Shandong Academy of Sciences), China  
 *January 2024 – Present*  
@@ -19,7 +19,7 @@ Research guidance:
 - **National University of Singapore, School of Continuing and Lifelong Education (NUS SCALE):** Certificate of Completion, Artificial Intelligence and Machine Learning online course, *15 January – 26 February 2022*, 23 hours of synchronous and asynchronous learning.
 - **Xiamen University, School of Economics:** Certificate of Completion, Entrepreneurial and Innovation Leadership Advanced Training, *25–30 April 2021*, 24 instructional hours. Non-degree programme.
 
-## Previous Research Experience
+## Research Experience
 
 **Independent Researcher — AI Security and Cyber Threat Intelligence**  
 *With Sun Yat-sen University and The University of Newcastle · January 2025 – June 2026*
