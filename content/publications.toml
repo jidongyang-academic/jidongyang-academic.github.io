@@ -1,4 +1,4 @@
-type = "text"
+type = "publication"
 title = "Publications"
-description = "Published papers and preprints, ordered by first publication or preprint posting date (newest first)."
-source = "publications.md"
+description = "Published papers and preprints, ordered by first publication or preprint posting date (newest first). † Corresponding author."
+source = "publications.bib"

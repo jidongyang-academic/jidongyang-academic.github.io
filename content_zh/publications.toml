@@ -1,4 +1,4 @@
-type = "text"
+type = "publication"
 title = "学术论文"
-description = "已发表论文与预印本，按首次发表或预印本公开日期从新到旧排列。"
-source = "publications.md"
+description = "已发表论文与预印本，按首次发表或预印本公开日期从新到旧排列。† 表示通信作者。"
+source = "publications.bib"
