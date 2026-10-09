@@ -1,6 +1,6 @@
 type = "card"
 title = "Honors & Awards"
-description = "Selected awards from my CV."
+description = "Selected awards."
 
 [[items]]
 title = "Grand Prize, Sichuan College Students Computer Competition"
@@ -30,4 +30,4 @@ content = "Third Prize."
 title = "Third Prize, Amazon Startup World Cup"
 subtitle = "AWS Joint Innovation Center and Pegasus Tech Ventures"
 date = "December 2020"
-content = "Third Prize (wording as recorded in CV)."
+content = "Third Prize."

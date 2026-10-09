@@ -1,12 +1,12 @@
 type = "card"
 title = "Patents"
-description = "Patents on AI security and software-enabled systems; invention and utility-model patents are presented together."
+description = "Patents on AI security and software systems."
 
 [[items]]
 title = "Watermark Attack Method Based on a Diffusion Model Architecture (基于扩散模型架构的水印攻击方法)"
 subtitle = "Qilu University of Technology (Shandong Academy of Sciences)"
 date = "Granted: September 4, 2026"
-content = "Patent ZL 2026 1 0943798.6; grant publication CN 122472967 B; filed June 29, 2026. Co-inventor: Jidong Yang. English title is a working translation."
+content = "Patent ZL 2026 1 0943798.6; grant publication CN 122472967 B; filed June 29, 2026. Co-inventor: Jidong Yang."
 tags = ["Patent"]
 
 [[items]]

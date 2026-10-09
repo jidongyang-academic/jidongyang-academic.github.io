@@ -55,7 +55,7 @@ Ordered by first publication or preprint posting date (newest first).
 **Founder, Product Manager and Core Developer**  
 Sichuan Lengjingyun Science and Technology Co., Ltd., China · *January 2020 – October 2025*
 - Founded the company; led product management and contributed to core software development, including backend architecture and core modules.
-- The company is a National High-Tech Enterprise and has Software Enterprise and Software Product evaluation certificates (commonly known as **Double Software / 双软认证**).
+- The company is a National High-Tech Enterprise and has Software Enterprise and Software Product evaluation certificates.
 
 **Product Manager and Core Developer**  
 Sichuan Yueanke Information Technology Co., Ltd., China · *August 2017 – November 2019*
@@ -66,7 +66,7 @@ Sichuan Yueanke Information Technology Co., Ltd., China · *August 2017 – Nove
 
 ## Patents
 
-- **Watermark Attack Method Based on a Diffusion Model Architecture (基于扩散模型架构的水印攻击方法)** — Patent ZL 2026 1 0943798.6; grant publication CN 122472967 B; filed June 29, 2026. Co-inventor: Jidong Yang. English title is a working translation.
+- **Watermark Attack Method Based on a Diffusion Model Architecture (基于扩散模型架构的水印攻击方法)** — Patent ZL 2026 1 0943798.6; grant publication CN 122472967 B; filed June 29, 2026. Co-inventor: Jidong Yang.
 - **A LoRa Parking Monitor** — Patent ZL 201922439463.9; CN210865115U. Inventors: Jidong Yang and Yang Yang.
 - **A Random Number Generator for a High-Altitude Weather Detector** — Patent ZL 201922450453.5; CN210864683U. Inventors: Jidong Yang and Yang Yang.
 - **A Device for Controlling Circuit Switches via Wired, Wireless or Bluetooth Networks** — Patent ZL 201922452137.1; CN211125412U. Inventors: Jidong Yang and Yang Yang.
@@ -74,7 +74,7 @@ Sichuan Yueanke Information Technology Co., Ltd., China · *August 2017 – Nove
 
 ## Software Copyright Registrations
 
-My CV records 15 software copyright registrations (2019–2020) covering deep-web monitoring, automated code analysis, parking systems, customer service, and management software.
+15 software copyright registrations (2019–2020) covering deep-web monitoring, automated code analysis, parking systems, customer service, and management software.
 
 ## Technical Skills
 
@@ -88,7 +88,7 @@ My CV records 15 software copyright registrations (2019–2020) covering deep-we
 - **2019:** First Prize and Best Creative Award, Pearl River Delta National College Students Computer Works Competition.
 - **2019:** Second Prize, International Software Innovation Design Competition.
 - **2020:** Third Prize, Pearl River Delta National College Students Computer Works Competition.
-- **2020:** Third Prize, Amazon Startup World Cup (as recorded in CV).
+- **2020:** Third Prize, Amazon Startup World Cup.
 
 ## Professional Mentorship
 

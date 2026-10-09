@@ -1,6 +1,6 @@
 type = "card"
 title = "荣誉奖项"
-description = "根据 CV 整理的部分获奖记录。"
+description = "部分获奖记录。"
 
 [[items]]
 title = "四川省大学生计算机作品大赛特等奖"
@@ -30,4 +30,4 @@ content = "三等奖。"
 title = "Amazon Startup World Cup 三等奖"
 subtitle = "AWS Joint Innovation Center、Pegasus Tech Ventures"
 date = "2020 年 12 月"
-content = "原 CV 记为 Third Prize，奖项正式中文名称待核实。"
+content = "三等奖。"

@@ -1,6 +1,6 @@
 type = "card"
 title = "专利"
-description = "人工智能安全与软件系统相关专利，统一归入专利类别。"
+description = "人工智能安全与软件系统相关专利。"
 
 [[items]]
 title = "基于扩散模型架构的水印攻击方法"
