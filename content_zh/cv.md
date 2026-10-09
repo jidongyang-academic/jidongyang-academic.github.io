@@ -16,6 +16,7 @@
 - **博士（Ph.D.，计划入学）**，卧龙岗大学（University of Wollongong），澳大利亚 · *计划于 2027 年入学*。
 - **市场营销硕士（Master of Marketing）**，澳大利亚管理与商业学院（Australian National Institute of Management and Commerce，IMC），悉尼 · *2024 年 12 月—至今*。
 - **信息技术硕士（Master of Information Technology）**，纽卡斯尔大学 · *2022 年 8 月—2024 年 8 月*。
+- **新加坡国立大学（National University of Singapore），School of Continuing and Lifelong Education（NUS SCALE）**：人工智能与机器学习（Artificial Intelligence and Machine Learning）在线课程结业证书，*2022 年 1 月 15 日—2 月 26 日*，23 学时，包含同步与异步学习。
 - **厦门大学经济学院**：企业家和双创干部能力提升计划高级研修班结业证书，*2021 年 4 月 25–30 日*，24 学时，非学历教育。
 
 ## 既往科研经历
@@ -65,7 +66,7 @@
 
 ## 软件著作权
 
-2019–2020 年另有 15 项软件著作权登记，涵盖深网监测、自动化代码审计、停车系统、客服系统与管理软件；具体登记号见可下载的完整版 CV。
+2019–2020 年另有 15 项软件著作权登记，涵盖深网监测、自动化代码审计、停车系统、客服系统与管理软件。
 
 ## 技术技能
 
@@ -81,7 +82,6 @@
 - **2020：** 泛珠三角全国大学生计算机作品赛三等奖。
 - **2020：** Amazon Startup World Cup 三等奖（名称以 CV 原文为准）。
 
-## 创业导师及专业培训
+## 创业导师
 
 - **Pegasus 中国创投加速器创业导师**，聘任单位：菲诺氪斯（成都）科技有限公司；聘期：*2020 年 10 月 20 日—2023 年 10 月 19 日*。
-- **新加坡国立大学（National University of Singapore），School of Continuing and Lifelong Education（NUS SCALE）**：人工智能与机器学习（Artificial Intelligence and Machine Learning）在线课程结业证书，*2022 年 1 月 15 日—2 月 26 日*，23 学时，包含同步与异步学习。

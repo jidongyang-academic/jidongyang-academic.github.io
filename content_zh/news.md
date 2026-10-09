@@ -8,4 +8,4 @@
 2026 年第一学期于纽卡斯尔大学以 Casual Academic 身份承担 **COMP3500/COMP6500** 课程教学工作。
 
 **2026**\
-关于谵妄非编码致病机制的 Agentic AI 论文已正式发表于 *Big Data* **14(4), 280–290**。
+我们的论文“[Agentic Artificial Intelligence-Driven Explainable Deep Learning for Deciphering Noncoding Pathogenic Mechanisms of Delirium Through Genomic Big Data Integration](https://doi.org/10.1177/2167647X261463929)”已被 **Big Data** 录用。

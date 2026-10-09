@@ -16,6 +16,7 @@ Research guidance:
 - **Ph.D. (Planned)**, University of Wollongong, Australia · *Planned entry: 2027*.
 - **Master of Marketing**, Australian National Institute of Management and Commerce (IMC), Sydney, Australia · *December 2024 – Present*.
 - **Master of Information Technology**, The University of Newcastle, Australia · *August 2022 – August 2024*.
+- **National University of Singapore, School of Continuing and Lifelong Education (NUS SCALE):** Certificate of Completion, Artificial Intelligence and Machine Learning online course, *15 January – 26 February 2022*, 23 hours of synchronous and asynchronous learning.
 - **Xiamen University, School of Economics:** Certificate of Completion, Entrepreneurial and Innovation Leadership Advanced Training, *25–30 April 2021*, 24 instructional hours. Non-degree programme.
 
 ## Previous Research Experience
@@ -73,7 +74,7 @@ Sichuan Yueanke Information Technology Co., Ltd., China · *August 2017 – Nove
 
 ## Software Copyright Registrations
 
-My CV records 15 software copyright registrations (2019–2020) covering deep-web monitoring, automated code analysis, parking systems, customer service, and management software. Full registration numbers are provided in the downloadable CV.
+My CV records 15 software copyright registrations (2019–2020) covering deep-web monitoring, automated code analysis, parking systems, customer service, and management software.
 
 ## Technical Skills
 
@@ -89,7 +90,6 @@ My CV records 15 software copyright registrations (2019–2020) covering deep-we
 - **2020:** Third Prize, Pearl River Delta National College Students Computer Works Competition.
 - **2020:** Third Prize, Amazon Startup World Cup (as recorded in CV).
 
-## Professional Mentorship & Training
+## Professional Mentorship
 
 - **Pegasus China Venture Capital Accelerator Mentor**, appointed by Fenox (Chengdu) Technology Co., Ltd., *20 October 2020 – 19 October 2023* (fixed-term appointment).
-- **National University of Singapore, School of Continuing and Lifelong Education (NUS SCALE):** Certificate of Completion, Artificial Intelligence and Machine Learning online course, *15 January – 26 February 2022*, 23 hours of synchronous and asynchronous learning.
