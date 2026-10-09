@@ -1,0 +1,38 @@
+type = "card"
+title = "Patents"
+description = "Patents on AI security and software-enabled systems; invention and utility-model patents are presented together."
+
+[[items]]
+title = "Watermark Attack Method Based on a Diffusion Model Architecture (基于扩散模型架构的水印攻击方法)"
+subtitle = "Qilu University of Technology (Shandong Academy of Sciences)"
+date = "Granted: September 4, 2026"
+content = "Patent ZL 2026 1 0943798.6; grant publication CN 122472967 B; filed June 29, 2026. Co-inventor: Jidong Yang. English title is a working translation."
+tags = ["Patent"]
+
+[[items]]
+title = "A LoRa Parking Monitor"
+subtitle = "Sichuan Yueanke Information Technology Co., Ltd."
+date = "Granted: June 26, 2020"
+content = "Patent ZL 201922439463.9; CN210865115U. Inventors: Jidong Yang and Yang Yang."
+tags = ["Patent"]
+
+[[items]]
+title = "A Random Number Generator for a High-Altitude Weather Detector"
+subtitle = "Sichuan Yueanke Information Technology Co., Ltd."
+date = "Granted: June 26, 2020"
+content = "Patent ZL 201922450453.5; CN210864683U. Inventors: Jidong Yang and Yang Yang."
+tags = ["Patent"]
+
+[[items]]
+title = "A Device for Controlling Circuit Switches via Wired, Wireless or Bluetooth Networks"
+subtitle = "Sichuan Yueanke Information Technology Co., Ltd."
+date = "Granted: July 28, 2020"
+content = "Patent ZL 201922452137.1; CN211125412U. Inventors: Jidong Yang and Yang Yang."
+tags = ["Patent"]
+
+[[items]]
+title = "A Smart Campus Card-Swiping Device"
+subtitle = "Sichuan Yueanke Information Technology Co., Ltd."
+date = "Granted: June 26, 2020"
+content = "Patent ZL 201922448394.8; CN210864736U. Inventors: Jidong Yang and Yang Yang."
+tags = ["Patent"]

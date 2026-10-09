@@ -3,9 +3,11 @@ title = "关于我"
 
 [profile]
 research_interests = [
-  "计算物理",
-  "数学原理",
-  "定理证明"
+  "人工智能安全与可信 AI",
+  "数字图像水印与多媒体取证",
+  "网络威胁情报与 APT 归因",
+  "网络安全图学习",
+  "Web 安全与漏洞挖掘"
 ]
 
 [[sections]]
@@ -16,13 +18,12 @@ title = "关于我"
 
 [[sections]]
 id = "featured_publications"
-type = "publications"
+type = "markdown"
 title = "精选论文"
-filter = "selected"
-limit = 5
+source = "selected-publications.md"
 
 [[sections]]
 id = "news"
-type = "list"
-title = "动态"
-source = "news.toml"
+type = "markdown"
+title = "近期动态"
+source = "news.md"

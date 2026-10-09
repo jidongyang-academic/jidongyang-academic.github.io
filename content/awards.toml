@@ -1,27 +1,33 @@
 type = "card"
-title = "Awards"
-description = "Honors and awards I have received."
+title = "Honors & Awards"
+description = "Selected awards from my CV."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2025"
-content = "Description of the award."
+title = "Grand Prize, Sichuan College Students Computer Competition"
+subtitle = "Sichuan Computer Institution and Sichuan Association for Science and Technology"
+date = "May 2019"
+content = "Grand Prize."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2024"
-content = "Description of the award."
+title = "First Prize and Best Creative Award, Pearl River Delta National College Students Computer Works Competition"
+subtitle = "National Council for Computer Education in Higher Education and partners"
+date = "July 2019"
+content = "First Prize and Best Creative Award."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2023"
-content = "Description of the award."
+title = "Second Prize, International Software Innovation Design Competition"
+subtitle = "UESTC and event organizing committee"
+date = "August 2019"
+content = "Second Prize."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2022"
-content = "Description of the award."
+title = "Third Prize, Pearl River Delta National College Students Computer Works Competition"
+subtitle = "National Council for Computer Education in Higher Education and partners"
+date = "October 2020"
+content = "Third Prize."
+
+[[items]]
+title = "Third Prize, Amazon Startup World Cup"
+subtitle = "AWS Joint Innovation Center and Pegasus Tech Ventures"
+date = "December 2020"
+content = "Third Prize (wording as recorded in CV)."

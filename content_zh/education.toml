@@ -1,0 +1,38 @@
+type = "card"
+title = "教育经历"
+description = "教育背景与专业课程学习。"
+
+[[items]]
+title = "博士（Ph.D.，计划入学）"
+subtitle = "卧龙岗大学（University of Wollongong），澳大利亚"
+date = "计划于 2027 年入学"
+content = "计划于 2027 年入读卧龙岗大学 Ph.D.。"
+tags = ["博士", "计划入学"]
+
+[[items]]
+title = "市场营销硕士（Master of Marketing）"
+subtitle = "澳大利亚管理与商业学院（Australian National Institute of Management and Commerce，IMC），悉尼"
+date = "2024 年 12 月—至今"
+content = "市场营销专业方向。"
+tags = ["硕士", "市场营销"]
+
+[[items]]
+title = "信息技术硕士（Master of Information Technology）"
+subtitle = "纽卡斯尔大学（The University of Newcastle），澳大利亚"
+date = "2022 年 8 月—2024 年 8 月"
+content = "信息技术硕士阶段学习。"
+tags = ["硕士", "信息技术"]
+
+[[items]]
+title = "人工智能与机器学习课程结业证书"
+subtitle = "新加坡国立大学（National University of Singapore），School of Continuing and Lifelong Education（NUS SCALE）"
+date = "2022 年 1 月 15 日—2 月 26 日"
+content = "完成 Artificial Intelligence and Machine Learning 在线课程，共 23 学时，包含同步与异步学习。"
+tags = ["专业培训", "人工智能", "机器学习"]
+
+[[items]]
+title = "厦门大学企业家和双创干部能力提升计划高级研修班结业证书"
+subtitle = "厦门大学经济学院"
+date = "2021 年 4 月 25–30 日"
+content = "完成 24 学时的创业创新领导力研修，属于非学历继续教育项目，不是厦门大学学位。"
+tags = ["继续教育"]

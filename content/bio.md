@@ -1,5 +1,9 @@
-I am a PhD student at the School of Science, University of Example, advised by [Prof. Advisor One](https://example.com) and [Dr. Advisor Two](https://example.com).
+I am **Jidong Yang**, a **Research Assistant** at **Qilu University of Technology (Shandong Academy of Sciences)**, China, since **January 2024**, and a **Casual Academic** at [The University of Newcastle](https://profiles.newcastle.edu.au/Jidong-Yang), Australia.
 
-Prior to this, I obtained a BSc degree with First Class Honours in Natural Science from the University of Example.
+My research is guided by [**Qi Li**](https://scholar.google.com/citations?user=hADn5wwAAAAJ&hl=en), affiliated with **Qilu University of Technology (Shandong Academy of Sciences)**, and [**Yuantian Miao**](https://scholar.google.com/citations?user=O0xZHawAAAAJ&hl=en), affiliated with **City University of Hong Kong (Dongguan)**.
 
-My current research focuses on investigating the mathematical principles of natural philosophy.
+My research interests include **AI security**, **digital image watermarking and multimedia forensics**, **cyber threat intelligence**, and **Web security and vulnerability discovery**. My work has explored invisible-watermark removal attacks, the security of AI-generated content, APT attribution, and next-TTP prediction using graph learning and multi-source threat intelligence. My cybersecurity experience includes Web application security, vulnerability discovery, and code security analysis. I have also contributed to interdisciplinary research on deep learning for genomics and multi-omics analysis.
+
+At the University of Newcastle, I taught **COMP3500/COMP6500** in **Semester 1, 2026**, and **SENG2250/SENG6250** in **Semester 2, 2026**. My responsibilities for both courses include laboratory and tutorial teaching, answering student questions, and course assessment activities.
+
+I earned a **Master of Information Technology** from The University of Newcastle in 2024 and am studying toward a **Master of Marketing** at the Australian National Institute of Management and Commerce (IMC). I plan to begin a **Ph.D. at the University of Wollongong in 2027**. Previously, I founded **Sichuan Lengjingyun Science and Technology Co., Ltd.** and worked in product management and core software development. I also worked as a Product Manager and Core Developer at **Sichuan Yueanke Information Technology Co., Ltd.**

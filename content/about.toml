@@ -3,27 +3,27 @@ title = "About"
 
 [profile]
 research_interests = [
-  "Computational Physics",
-  "Mathematical Principles",
-  "Proof of Theorems"
+  "AI Security and Trustworthy AI",
+  "Digital Image Watermarking and Multimedia Forensics",
+  "Cyber Threat Intelligence and APT Attribution",
+  "Graph Learning for Cybersecurity",
+  "Web Security and Vulnerability Discovery"
 ]
 
 [[sections]]
 id = "about"
 type = "markdown"
 source = "bio.md"
-title = "About"
+title = "About Me"
 
 [[sections]]
 id = "featured_publications"
-type = "publications"
+type = "markdown"
 title = "Selected Publications"
-filter = "selected"
-limit = 5
+source = "selected-publications.md"
 
 [[sections]]
 id = "news"
-type = "list"
+type = "markdown"
 title = "News"
-source = "news.toml"
-
+source = "news.md"

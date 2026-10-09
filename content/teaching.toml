@@ -1,10 +1,17 @@
 type = "card"
 title = "Teaching"
-description = "Courses I have taught or assisted with."
+description = "Teaching contributions at The University of Newcastle, Australia."
 
 [[items]]
-title = "Example Course"
-subtitle = "Teaching Assistant"
-date = "2024"
-content = "Description of the course and responsibilities. Content of this course can be found [here](https://example.com)."
-tags = ["Undergraduate", "CS"]
+title = "COMP3500 / COMP6500"
+subtitle = "Casual Academic · The University of Newcastle"
+date = "2026 · Semester 1"
+content = "Responsible for laboratory and tutorial teaching, answering student questions, and course assessment activities."
+tags = ["2026 S1", "Casual Academic", "Computing", "Cybersecurity"]
+
+[[items]]
+title = "SENG2250 / SENG6250"
+subtitle = "Casual Academic · The University of Newcastle"
+date = "2026 · Semester 2"
+content = "Responsible for laboratory and tutorial teaching, answering student questions, and course assessment activities."
+tags = ["2026 S2", "Casual Academic", "Software Engineering"]

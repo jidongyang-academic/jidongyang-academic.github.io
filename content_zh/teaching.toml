@@ -1,10 +1,17 @@
 type = "card"
 title = "教学"
-description = "我曾参与授课或助教的课程。"
+description = "澳大利亚纽卡斯尔大学教学工作。"
 
 [[items]]
-title = "示例课程"
-subtitle = "助教"
-date = "2024"
-content = "课程内容与职责简介。"
-tags = ["本科生", "计算机"]
+title = "COMP3500 / COMP6500"
+subtitle = "Casual Academic · 纽卡斯尔大学"
+date = "2026 第一学期（S1）"
+content = "承担实验与辅导教学、答疑及课程考核相关工作。"
+tags = ["2026 S1", "Casual Academic", "网络安全"]
+
+[[items]]
+title = "SENG2250 / SENG6250"
+subtitle = "Casual Academic · 纽卡斯尔大学"
+date = "2026 第二学期（S2）"
+content = "承担实验与辅导教学、答疑及课程考核相关工作。"
+tags = ["2026 S2", "Casual Academic", "软件工程"]

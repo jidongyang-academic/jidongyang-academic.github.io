@@ -1,0 +1,37 @@
+type = "card"
+title = "Research"
+description = "Current research role, research guidance, and research interests."
+
+[[items]]
+title = "Current Research Appointment"
+subtitle = "Research Assistant · Qilu University of Technology (Shandong Academy of Sciences)"
+date = "January 2024 – Present"
+content = "Current research appointment. Research guidance: [Qi Li](https://scholar.google.com/citations?user=hADn5wwAAAAJ&hl=en) (Qilu University of Technology / Shandong Academy of Sciences) and [Yuantian Miao](https://scholar.google.com/citations?user=O0xZHawAAAAJ&hl=en) (City University of Hong Kong (Dongguan))."
+tags = ["Research Assistant", "Research Guidance", "AI Security"]
+
+[[items]]
+title = "Invisible Image Watermarking and Multimedia Forensics"
+subtitle = "AI Security / Multimedia"
+date = "Research Area"
+content = "Research on invisible-watermark removal attacks, robustness of AI-generated-content security mechanisms, and multimedia forensics."
+tags = ["AI Security", "Digital Watermarking", "Multimedia Forensics"]
+
+[[items]]
+title = "Cyber Threat Intelligence and APT Attribution"
+subtitle = "Prior independent research · Sun Yat-sen University / The University of Newcastle"
+date = "Jan 2025 – Jun 2026"
+content = "Studied APT attribution and next-technique prediction using heterogeneous graph neural networks, multi-source threat intelligence, MITRE ATT&CK-aligned graphs, and multitask learning."
+tags = ["Cyber Threat Intelligence", "Graph Neural Networks", "APT Attribution"]
+
+[[items]]
+title = "Bioinformatics and Multi-Omics Deep Learning"
+subtitle = "Previous Research Assistant · Under the supervision of Shanshan Cai"
+date = "Aug 2025 – Jan 2026"
+content = "Developed pipelines for genomics and multi-omics analysis; evaluated deep learning models including Enformer and SpliceTransformer, and investigated disease-related genomic mechanisms."
+tags = ["Bioinformatics", "Deep Learning", "Genomics"]
+
+[[items]]
+title = "Web Security and Vulnerability Discovery"
+subtitle = "Cybersecurity Research and Practice"
+content = "Research interests and practical experience in Web application security, vulnerability discovery, and code security analysis."
+tags = ["Web Security", "Vulnerability Discovery", "Code Security Analysis"]

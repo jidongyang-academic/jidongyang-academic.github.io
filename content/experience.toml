@@ -1,0 +1,30 @@
+type = "card"
+title = "Professional Experience"
+description = "Entrepreneurial leadership, product management, and software development experience."
+
+[[items]]
+title = "Founder, Product Manager and Core Developer"
+subtitle = "Sichuan Lengjingyun Science and Technology Co., Ltd., China"
+date = "January 2020 – October 2025"
+content = "Founded the company and worked in product management and core software development, including backend architecture, key product modules and project coordination. The company is a National High-Tech Enterprise and holds software enterprise and software product evaluation certificates (commonly called 双软认证)."
+tags = ["Founder", "Product Management", "Software Development"]
+
+[[items]]
+title = "Product Manager and Core Developer"
+subtitle = "Sichuan Yueanke Information Technology Co., Ltd., China"
+date = "August 2017 – November 2019"
+content = "Worked in product management and core software development."
+tags = ["Product Management", "Core Development"]
+
+[[items]]
+title = "Pegasus China Venture Capital Accelerator Mentor"
+subtitle = "Fenox (Chengdu) Technology Co., Ltd. / Pegasus Tech Ventures"
+date = "October 20, 2020 – October 19, 2023"
+content = "Appointed as a mentor for the Pegasus China Venture Capital Accelerator for a fixed three-year term (per appointment letter)."
+tags = ["Mentorship", "Entrepreneurship"]
+
+[[items]]
+title = "Cybersecurity Experience"
+subtitle = "Web Application Security and Vulnerability Discovery"
+content = "Practical experience in Web security, vulnerability discovery, and code security analysis."
+tags = ["Web Security", "Vulnerability Discovery", "Code Security Analysis"]

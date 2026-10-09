@@ -1,0 +1,37 @@
+type = "card"
+title = "研究方向"
+description = "现任科研职位、研究指导关系及主要研究方向。"
+
+[[items]]
+title = "现任科研职位"
+subtitle = "Research Assistant · 齐鲁工业大学（山东省科学院）"
+date = "2024 年 1 月—至今"
+content = "现任科研助理。研究指导老师：[Qi Li](https://scholar.google.com/citations?user=hADn5wwAAAAJ&hl=en)（齐鲁工业大学〔山东省科学院〕）和 [Yuantian Miao](https://scholar.google.com/citations?user=O0xZHawAAAAJ&hl=en)（香港城市大学〔东莞〕）。"
+tags = ["科研助理", "研究指导", "AI 安全"]
+
+[[items]]
+title = "不可见图像水印与多媒体取证"
+subtitle = "人工智能安全 / 多媒体安全"
+date = "研究方向"
+content = "研究不可见图像水印移除攻击、AI 生成内容安全，以及多媒体安全与取证。"
+tags = ["AI 安全", "数字水印", "多媒体取证"]
+
+[[items]]
+title = "网络威胁情报与 APT 归因"
+subtitle = "既往独立研究 · 与中山大学和纽卡斯尔大学开展研究"
+date = "2025.01–2026.06"
+content = "基于异构图神经网络、多源威胁情报与 MITRE ATT&CK 对齐知识图谱，研究 APT 归因、下一步 TTP 预测与多任务学习。"
+tags = ["网络威胁情报", "图神经网络", "APT 归因"]
+
+[[items]]
+title = "生物信息学与多组学深度学习"
+subtitle = "既往 Research Assistant · 在 Shanshan Cai 指导下"
+date = "2025.08–2026.01"
+content = "构建多组学和功能基因组学深度学习分析流程，使用 Enformer、SpliceTransformer 等模型研究基因组机制。"
+tags = ["生物信息学", "深度学习", "基因组学"]
+
+[[items]]
+title = "Web 安全与漏洞挖掘"
+subtitle = "网络安全研究与实践"
+content = "研究兴趣与实践经验涵盖 Web 应用安全、漏洞挖掘及代码安全分析。"
+tags = ["Web 安全", "漏洞挖掘", "代码安全分析"]

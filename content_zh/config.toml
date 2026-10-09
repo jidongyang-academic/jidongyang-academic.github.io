@@ -1,19 +1,21 @@
 [site]
-title = "刘嘉乐"
-description = "某某大学博士生个人主页。"
-last_updated = "2025年11月18日"
+title = "Jidong Yang"
+description = "Jidong Yang 的个人学术主页：人工智能安全、数字图像水印、多媒体取证与网络威胁情报"
+last_updated = "2026年10月"
 
 [author]
-name = "刘嘉乐"
-title = "博士生"
-institution = "某某大学"
+name = "Jidong Yang"
+title = "科研助理（Research Assistant） | 纽卡斯尔大学 Casual Academic"
+institution = "齐鲁工业大学（山东省科学院）"
 
 [social]
-location = "城市，国家"
-location_details = [
-  "理科楼 123 室，",
-  "大学路，城市，国家"
-]
+email = "jidong_yang_paper@163.com"
+location = "悉尼，澳大利亚"
+location_details = ["悉尼，澳大利亚"]
+location_url = ""
+google_scholar = "https://scholar.google.com/citations?user=WyLuUBwAAAAJ&hl=en"
+orcid = "https://orcid.org/my-orcid?orcid=0009-0006-0355-4422"
+github = "https://github.com/jidongyang-academic"
 
 [[navigation]]
 title = "关于我"
@@ -22,10 +24,22 @@ target = "about"
 href = "/"
 
 [[navigation]]
-title = "论文"
+title = "研究方向"
+type = "page"
+target = "research"
+href = "/research"
+
+[[navigation]]
+title = "学术论文"
 type = "page"
 target = "publications"
 href = "/publications"
+
+[[navigation]]
+title = "专利"
+type = "page"
+target = "patents"
+href = "/patents"
 
 [[navigation]]
 title = "教学"
@@ -34,16 +48,22 @@ target = "teaching"
 href = "/teaching"
 
 [[navigation]]
-title = "奖项"
+title = "工作经历"
+type = "page"
+target = "experience"
+href = "/experience"
+
+[[navigation]]
+title = "教育经历"
+type = "page"
+target = "education"
+href = "/education"
+
+[[navigation]]
+title = "荣誉奖项"
 type = "page"
 target = "awards"
 href = "/awards"
-
-[[navigation]]
-title = "服务"
-type = "page"
-target = "services"
-href = "/services"
 
 [[navigation]]
 title = "简历"
